@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @stoic-jsartin (Jared Sartin - He/Him/They)
+- 👀 I’m interested in game dev
+- 📫 jsartin@stoicstudio.com
