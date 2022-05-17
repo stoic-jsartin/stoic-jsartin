@@ -1,3 +1,3 @@
-- 👋 Hi, I’m @stoic-jsartin (Jared Sartin - He/Him/They)
+- 👋 Hi, I’m @stoic-jsartin (Jared Sartin - He/Him/They) - Personal @JaredSartin
 - 👀 I’m interested in game dev
 - 📫 jsartin@stoicstudio.com
